@@ -1,0 +1,17 @@
+{
+    "name": "yuannova/excel-format-validation",
+    "autoload": {
+        "psr-4": {
+            "Yuannova\\Excel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuan Novabianto Raharjo",
+            "email": "yuan.puls@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.18"
+    }
+}
