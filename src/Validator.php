@@ -1,6 +1,6 @@
 <?php
 
-namespace Yuan\Excel\Format\Validation;
+namespace Yuannova\Excel\Format\Validation;
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
 
