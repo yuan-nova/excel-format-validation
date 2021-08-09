@@ -1,0 +1,12 @@
+{
+    "name": "yuan/excel-format-validation",
+    "authors": [
+        {
+            "name": "Yuan",
+            "email": "yuan.novabianto@hreasily.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.18"
+    }
+}
